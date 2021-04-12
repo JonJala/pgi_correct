@@ -26,6 +26,9 @@ $ git pull
 ```
 in the `pgi_correct` directory. If your local instance is outdated, `git` will retrieve all changes and update the code. Otherwise, you will be told that your local instance is already up to date. 
 
+### Illustrative Application
+Currently, the illustrative application replication package can be found in the `add_replication` branch -- checkout this branch to access the relevant materials. We are working on merging to master!
+
 ### Support
 We are happy to answer any questions you may have about using the software. Before [opening an issue](https://github.com/JonJala/pgi_correct/issues), please be sure to read the wiki, description of the method in the paper linked above, and the description of the input flags and their proper usage. If your problem persists, **please do the following:**
 
