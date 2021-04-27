@@ -7,6 +7,7 @@ Short stata script to clean regression data, generate interactions and dummies, 
 linearly dependent columns, etc. Just need to point the script to the cross section
 from Papageorge and Thom, EA_CrossSection.dta. The script will insert pgic input data
 for each regression:
+
     - reg1: regression of EA on EA PGI.
     - reg2: regression of EA on EA PGI, controlling for parental EA.
     - reg3: first GxE regression, outcome is at least high school.
