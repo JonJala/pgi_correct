@@ -3,7 +3,8 @@ et al.
 
 ./papageorge_thom/
 A slightly edited replication package from Papageorge and Thom
-(https://www.nber.org/papers/w25114). All data needed for the replication are publicly
+(paper and original replication materials at
+https://academic.oup.com/jeea/article-abstract/18/3/1351/5677507). All data needed for the replication are publicly
 available, but one will need to make an account with HRS to access their data.
 More detailed instructions on replication are at ./papageorge_thom/GenesEduc_ReadMe.do
 -- read this document carefully. The replication package will produce a table,
